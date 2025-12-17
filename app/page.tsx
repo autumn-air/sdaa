@@ -137,31 +137,31 @@ export default function Home() {
           </div>}
 
           {show === "credits" && <div className="text-2xl text-white/40 px-10 py-5 overflow-scroll text-wrap h-screen hide-scrollbar">
-            <Overlay>Poems, background, website by Autumn Rockwell</Overlay><br/><br/><br/>
-            <Overlay>Background FX by Noah Lin</Overlay><br/>
-            <br/>
-            <br/>
-            <Overlay>Background attributions</Overlay><br/><br/><br/>
-<Overlay>https://uk.pinterest.com/pin/810296157981730057/</Overlay><br/><br/><br/><br/>
-<Overlay>https://wallpaperaccess.com/love-black-and-white</Overlay><br/><br/><br/><br/>
-<Overlay>https://wallpaperaccess.com/love-black-and-white</Overlay><br/><br/><br/><br/>
-<Overlay>https://storyboardwedding.com/moody-black-and-white-boudoir/black_and_white_boudoir_kel_ward_photography_10-rv/</Overlay><br/><br/><br/><br/>
-<Overlay>https://www.pinterest.com/pin/416160821818154233/</Overlay><br/><br/><br/><br/>
-<Overlay>https://pixabay.com/photos/black-and-white-petals-flower-wet-2561974/</Overlay><br/><br/><br/><br/>
-<Overlay>https://www.etsy.com/market/black_and_white_kink</Overlay><br/><br/><br/><br/>
-<Overlay>https://wallpapercave.com/black-marijuana-hd-wallpaper</Overlay><br/><br/><br/><br/>
-<Overlay>https://www.teahub.io/viewwp/xTxom_black-and-white-smoking-weed/</Overlay><br/><br/><br/><br/>
-<Overlay>https://lit438dld.blogspot.com/2018/09/black-and-white-weed-wallpaper.html</Overlay><br/><br/><br/><br/>
-<Overlay>https://rare-gallery.com/xfsearch/alt/etherial/</Overlay><br/><br/><br/><br/>
-<Overlay>https://wallpapers.com/smoking</Overlay><br/><br/><br/><br/>
-<Overlay>https://wallpapercave.com/weed-minimal-wallpapers</Overlay><br/><br/><br/><br/>
-<Overlay>https://wallpapercave.com/black-and-white-smoking-girl-wallpapers</Overlay><br/><br/><br/><br/>
-<Overlay>https://www.pexels.com/photo/grayscale-photography-of-margarita-glass-on-table-4295/</Overlay><br/><br/><br/><br/>
-<Overlay>https://ar.inspiredpencil.com/pictures-2023/alcohol-photography-black-and-white</Overlay><br/><br/><br/><br/>
-<Overlay>https://ar.inspiredpencil.com/pictures-2023/alcohol-black-and-white</Overlay><br/><br/><br/><br/>
-<Overlay>https://ar.inspiredpencil.com/pictures-2023/alcohol-wallpaper-white</Overlay><br/><br/><br/><br/>
-<Overlay>https://www.istockphoto.com/illustrations/black-and-white-alcohol</Overlay><br/><br/><br/><br/>
-<Overlay>https://ar.inspiredpencil.com/pictures-2023/beer-photography-black-and-white</Overlay><br/><br/><br/><br/>
+            <Overlay>Poems, background, website by Autumn Rockwell</Overlay><br /><br /><br />
+            <Overlay>Background FX by Noah Lin</Overlay><br />
+            <br />
+            <br />
+            <Overlay>Background attributions</Overlay><br /><br /><br />
+            <Overlay>https://uk.pinterest.com/pin/810296157981730057/</Overlay><br /><br /><br /><br />
+            <Overlay>https://wallpaperaccess.com/love-black-and-white</Overlay><br /><br /><br /><br />
+            <Overlay>https://wallpaperaccess.com/love-black-and-white</Overlay><br /><br /><br /><br />
+            <Overlay>https://storyboardwedding.com/moody-black-and-white-boudoir/black_and_white_boudoir_kel_ward_photography_10-rv/</Overlay><br /><br /><br /><br />
+            <Overlay>https://www.pinterest.com/pin/416160821818154233/</Overlay><br /><br /><br /><br />
+            <Overlay>https://pixabay.com/photos/black-and-white-petals-flower-wet-2561974/</Overlay><br /><br /><br /><br />
+            <Overlay>https://www.etsy.com/market/black_and_white_kink</Overlay><br /><br /><br /><br />
+            <Overlay>https://wallpapercave.com/black-marijuana-hd-wallpaper</Overlay><br /><br /><br /><br />
+            <Overlay>https://www.teahub.io/viewwp/xTxom_black-and-white-smoking-weed/</Overlay><br /><br /><br /><br />
+            <Overlay>https://lit438dld.blogspot.com/2018/09/black-and-white-weed-wallpaper.html</Overlay><br /><br /><br /><br />
+            <Overlay>https://rare-gallery.com/xfsearch/alt/etherial/</Overlay><br /><br /><br /><br />
+            <Overlay>https://wallpapers.com/smoking</Overlay><br /><br /><br /><br />
+            <Overlay>https://wallpapercave.com/weed-minimal-wallpapers</Overlay><br /><br /><br /><br />
+            <Overlay>https://wallpapercave.com/black-and-white-smoking-girl-wallpapers</Overlay><br /><br /><br /><br />
+            <Overlay>https://www.pexels.com/photo/grayscale-photography-of-margarita-glass-on-table-4295/</Overlay><br /><br /><br /><br />
+            <Overlay>https://ar.inspiredpencil.com/pictures-2023/alcohol-photography-black-and-white</Overlay><br /><br /><br /><br />
+            <Overlay>https://ar.inspiredpencil.com/pictures-2023/alcohol-black-and-white</Overlay><br /><br /><br /><br />
+            <Overlay>https://ar.inspiredpencil.com/pictures-2023/alcohol-wallpaper-white</Overlay><br /><br /><br /><br />
+            <Overlay>https://www.istockphoto.com/illustrations/black-and-white-alcohol</Overlay><br /><br /><br /><br />
+            <Overlay>https://ar.inspiredpencil.com/pictures-2023/beer-photography-black-and-white</Overlay><br /><br /><br /><br />
 
 
           </div>
